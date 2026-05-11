@@ -85,3 +85,4 @@ int main() {
 <img width="1536" height="700" alt="image" src="https://github.com/user-attachments/assets/ce3bb769-c9db-4b79-ad3c-39d7775e8244" />
 
 ## RESULT
+Thus the implementation of vigenere cipher had been executed successfully
